@@ -14,7 +14,7 @@ My first task is an Android unit converter app. It's required to handle lengths,
 ### Day 2
 * Wrote new spinner adapters for the "to" field and a method to change which one is used according to the selected value in the first spinner. All units are now shown in the "from" field, but, for example, if a length unit is selected then only lengths can be selected for the "to" field. This prevents users from attempting to convert centimetres to degrees celsius, for example. 
 * Many examples of unit conversion methods work by returning a number to multiply the input by to get the result. However, this doesn't work for temperatures as the formula is more complex. I altered my conversion method to run a formula and save the result in a variable (rather than saving the multiplier for use in another method).
-* Worked on the interface design - added labels, made the layout neater, reordered fields. 
+* Worked on the interface design - added labels, made the layout neater, reordered fields. Learnt about settings like margins and positioning elements after other elements.
 * Worked out how to allow the spinner to have slightly different labels than the actual unit names (e.g. "Degrees Celsius" while still using the unit name in the code. I did this by altering the method that gets the unit name from the spinner to remove the word "degrees" before doing anything.
 * Worked out how to close the on-screen keyboard when the button is clicked for a smoother user experience (otherwise the result field would be covered by the keyboard). 
 
@@ -25,4 +25,4 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 4
 * Built layout for Android timer app
-* Learnt how to apply colours
+* Learnt how to apply colours, and more layout settings.
