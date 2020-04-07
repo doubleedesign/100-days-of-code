@@ -26,3 +26,9 @@ My next task is a timer app, required to have the ability to start, pause, and r
 ### Day 4
 * Built layout for Android timer app
 * Learnt how to apply colours, and more layout settings such as how to align text and put two buttons side-by-side.
+
+### Day 5
+* Got most of my timer working - start/stop buttons 
+* Start button changes to pause button when timer is running
+* Message is updated upon stopping, and timer resets
+* Previous time not saved persistently yet. 
