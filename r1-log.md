@@ -22,3 +22,7 @@ My first task is an Android unit converter app. It's required to handle lengths,
 * Forked this repo and wrote up what I did on my unit converter over the weekend
 
 My next task is a timer app, required to have the ability to start, pause, and reset, as well as automatically saving the previous time. 
+
+### Day 4
+* Built layout for Android timer app
+* Learnt how to apply colours
