@@ -32,3 +32,7 @@ My next task is a timer app, required to have the ability to start, pause, and r
 * Start button changes to pause button when timer is running
 * Message is updated upon stopping, and timer resets
 * Previous time not saved persistently yet. 
+
+### Day 6
+* Worked out how to save the time persistently using shared preferences, when the appropriate lifecycle methods are run
+* Worked out how to keep the timer running and state persistent when the device is rotated (saving/restoring instance state)
