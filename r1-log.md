@@ -40,3 +40,6 @@ My next task is a timer app, required to have the ability to start, pause, and r
 ### Day 7
 * Troubleshooted issue with data saving on device reorientation when it shouldn't - learnt that the onDestroy() lifecycle callback is run on device reorientation, and that there is an isFinishing() check I can run to check whether the app is actually being closed or the device is simply being reoriented, and run my functions (or not) accordingly. 
 * Started work on the next task, a basic expense calculator application, by familiarising myself with the requirements and concepts of list view and intents.
+
+### Day 8
+* Set up layouts for main activity of expense calculator app. Learnt the hard way (through a big, difficult-to-understand error message) that I can't declare variables for the interface elements (in this case the ListView) at the top of the activity (before onCreate) because the app doesn't know they exist before onCreate().
