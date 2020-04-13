@@ -46,3 +46,6 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 9
 * Learnt the basics of Intents and how to send basic data from one activity to the next. 
+
+### Day 10
+* Learnt how to use startActivityForResult() so the child activity opened can send data back to the parent (in this case when a button is clicked, which also finishes the activity)
