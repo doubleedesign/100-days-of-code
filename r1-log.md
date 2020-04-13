@@ -43,3 +43,6 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 8
 * Set up layouts for main activity of expense calculator app. Learnt the hard way (through a big, difficult-to-understand error message) that I can't declare variables for the interface elements (in this case the ListView) at the top of the activity (before onCreate) because the app doesn't know they exist before onCreate().
+
+### Day 9
+* Learnt the basics of Intents and how to send basic data from one activity to the next. 
