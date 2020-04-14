@@ -52,3 +52,4 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 11
 * I've read a few times now that for monetary values in Java, I should be using the BigDecimal data type instead of double or float. Today I changed my expense calculator app to use BigDecimals for all the figures, which is not as straightforward as it sounds because they work a bit differently to doubles and floats. BigDecimals are immutable so you must create a new one each time you want to use one rather than reassigning the value, and you can't do a simple `total = total + somevalue` to add to it. Instead it's  `total = total.add(somevalue)`. Not difficult but just some extra steps to work out. 
+* Figured out how to pass a reference to an image with the intent so that the child activity screen shows a different image according to the list item that opened it.
