@@ -65,3 +65,10 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 15
 * Began work on the NewsPortal app by following some tutorials to work out how to set up the RecyclerView to list news sites. Ran into a similar issue as Day 8 when I tried to declare an ArrayList (to add sites to) before OnCreate. Fortunately I remembered I'd run into this before so solved it a lot faster! Experimented a bit with access modifiers when my IDE showed advice that some things could be a more restricted level. 
+
+### Day 16
+* Day 1 of "Sam's Teach Yourself Java in 21 days"
+
+### Day 17
+* Did some reading about Android fragments
+* Added a fragment to my NewsPortal App and worked out how to bring it to the front when a RecyclerView item is clicked
