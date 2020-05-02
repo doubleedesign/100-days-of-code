@@ -72,3 +72,4 @@ My next task is a timer app, required to have the ability to start, pause, and r
 ### Day 17
 * Did some reading about Android fragments
 * Added a fragment to my NewsPortal App and worked out how to bring it to the front when a RecyclerView item is clicked
+* Worked out how to pass the label of the clicked item to the fragment, to display it as the heading; will probably use this to determine what else should be shown in the fragment.
