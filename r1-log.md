@@ -73,3 +73,9 @@ My next task is a timer app, required to have the ability to start, pause, and r
 * Did some reading about Android fragments
 * Added a fragment to my NewsPortal App and worked out how to bring it to the front when a RecyclerView item is clicked
 * Worked out how to pass the label of the clicked item to the fragment, to display it as the heading; will probably use this to determine what else should be shown in the fragment.
+
+### Day 18
+* Worked out how to open a URL in a browser when a RecyclerView item is clicked
+* Worked out how to send a whole object to a fragment for more efficient loading of data in the fragment
+* Added all the required content to the objects, and worked on more efficient ways to construct the news outlet objects and pass data around
+* Added a utility method for loading the news outlet's logo into any given ImageView, so the same four lines of code used each time could be replaced by one method that takes a single parameter - the ImageView to load into. The method is able to get everything else from within the object class. 
