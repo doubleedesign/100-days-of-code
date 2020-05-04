@@ -82,5 +82,5 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 19
 * Learnt how to make an API request using Volley
-* Loaded latest article for Australia from NewsAPI.org in the main activity of my news portal app (but link not working yet)
+* Loaded latest article for Australia from NewsAPI.org in the main activity of my news portal app, opening the link when the article is clicked
 * Made a bunch of design improvements, including finding out how to import Google fonts
