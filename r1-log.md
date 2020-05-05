@@ -84,3 +84,7 @@ My next task is a timer app, required to have the ability to start, pause, and r
 * Learnt how to make an API request using Volley
 * Loaded latest article for Australia from NewsAPI.org in the main activity of my news portal app, opening the link when the article is clicked
 * Made a bunch of design improvements, including finding out how to import Google fonts
+
+### Day 20
+* Learnt how to load images from URLs using Pisasso library
+* Created workaround for an issue with the NewsAPI response where some news outlets can't be directly queried
