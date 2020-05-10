@@ -93,7 +93,7 @@ My next task is a timer app, required to have the ability to start, pause, and r
 * Day 2 of "Sam's Teach Yourself Java in 21 days"
 
 ### Day 22
-* Started learning how to create apps in Xcode with storyboards, using [this dice app tutorial(https://www.ralfebert.de/ios/beginner-tutorials/iphone-app-xcode/)
+* Started learning how to create apps in Xcode with storyboards, using (this dice app tutorial)[https://www.ralfebert.de/ios/beginner-tutorials/iphone-app-xcode/]
 
 ### Day 23
 * Day 3 of "Sam's Teach Yourself Java in 21 days"
