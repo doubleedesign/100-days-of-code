@@ -97,3 +97,9 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 23
 * Day 3 of "Sam's Teach Yourself Java in 21 days"
+
+### Day 24
+* Day 3 of "Sam's Teach Yourself Java in 21 days"
+
+### Day 25
+* Started [A Cloud Guru's Intro to AWS course](https://acloud.guru/learn/aws-technical-essentials)
