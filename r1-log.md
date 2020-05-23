@@ -103,3 +103,14 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 25
 * Started [A Cloud Guru's Intro to AWS course](https://acloud.guru/learn/aws-technical-essentials)
+
+### Day 26
+* Started [A Cloud Guru's AWS Cloud Practitioner course](https://acloud.guru/course/aws-certified-cloud-practitioner/) - intro, account setup, billing alarm
+
+### Day 27
+* Started on [Ray Wenderlich's iOS/Swift course](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app/) - intro content
+* Read documentation for [The Dog API](https://thedogapi.com/) and [The Cat API](https://thecatapi.com/) with a view to using these for my iOS project
+
+### Day 28
+* AWS Course - S3 buckets
+* Created iOS app project, started working on the layout
