@@ -109,8 +109,13 @@ My next task is a timer app, required to have the ability to start, pause, and r
 
 ### Day 27
 * Started on [Ray Wenderlich's iOS/Swift course](https://www.raywenderlich.com/4919757-your-first-ios-and-swiftui-app/) - intro content
-* Read documentation for [The Dog API](https://thedogapi.com/) and [The Cat API](https://thecatapi.com/) with a view to using these for my iOS project
+* Read documentation for [The Dog API](https://thedogapi.com/) and [The Cat API](https://thecatapi.com/) with a view to using these for an iOS or Android project for uni
 
 ### Day 28
 * AWS Course - S3 buckets
-* Created iOS app project, started working on the layout
+* Created an iOS app project, started working on the layout
+
+### Day 29
+* AWS Course - EC2 intro
+* Set up Drupal site for a client project and started on developing the theme
+* Set up Android project [DoggyData](https://github.com/doubleedesign/DoggyData) app for uni project
