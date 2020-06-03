@@ -119,3 +119,9 @@ My next task is a timer app, required to have the ability to start, pause, and r
 * AWS Course - EC2 intro
 * Set up Drupal site for a client project and started on developing the theme
 * Set up Android project [DoggyData](https://github.com/doubleedesign/DoggyData) app for uni project
+
+### Days 30-39
+* Worked on Drupal site for a client project
+
+### Day 31
+* Worked on the layout for DoggyData project
